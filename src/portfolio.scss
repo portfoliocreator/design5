@@ -146,7 +146,7 @@
     width: 60%;
     opacity: 0.8;
     background-color: #081b33;
-    padding: 20px;
+    padding: 35px 20px;
     border-radius: 20px;
     background: linear-gradient(45deg, #091d37, #07182e);
     display: flex;
@@ -296,6 +296,12 @@
     margin: auto;
     margin-top: 3px;
     margin-bottom: 3px;
+}
+.portfolioVolunteerExpansionPanel .portfolioCardDateContainer {
+    padding: 0px 12px;
+    width: auto;
+    margin-left: 0px;
+    margin-right: auto;
 }
 .portfolioExpansionPanelTitle {
     flex-basis: 60%;
